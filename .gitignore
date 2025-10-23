@@ -1,0 +1,15 @@
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
